@@ -1,4 +1,3 @@
-GMapCatcher - An offline map viewer
-
-HomePage: http://code.google.com/p/gmapcatcher/
-
+python run gmapcatcher.py file
+right click the map and add marker on the map
+the location data will be then saved to the file, marker_data.txt
